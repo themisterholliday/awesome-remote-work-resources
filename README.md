@@ -1,5 +1,9 @@
 # Awesome Remote Work Resources
 
+- [REMOTE: Office Not Required](https://basecamp.com/books/remote)
+- [It Doesn't Have to Be Crazy at Work](https://basecamp.com/books/calm)
+- [Company of One: Why Staying Small Is the Next Big Thing for Business, by Paul Jarvis](https://ofone.co/)
+- [The Year Without Pants: WordPress.com and the Future of Work](https://scottberkun.com/yearwithoutpants/)
 - [Gitlab The Remote Manifesto](https://about.gitlab.com/company/culture/all-remote/#the-remote-manifesto)
 - [More GitLab remote resources](https://about.gitlab.com/blog/2020/03/06/resources-for-companies-embracing-remote-work/?utm_medium=email&utm_source=marketo&utm_campaign=newsletter&utm_content=march+10+2020&mkt_tok=eyJpIjoiTVdOaE9XVmpZekZqWlRjeiIsInQiOiJyVktSNXUwc3hQNmpmWHVaUHBySFZWN2lCMjVuUm51YjRSNHlTWnBvdmcydmJXR01sR0xFMGt6SHk4TXl1OEF6XC9DZmwzR09pQ3I3VmU2bHAwSHZhRnNXUnhoUmNad1FVYVB5c2NFYUJqTEJJUm1qY0JScmRhcjVEd2d3VW9EeERqM0IxRlRvS1h1bFRyMzc4MFRDaERnPT0ifQ==)
 - [Zapier Remote Work/](https://zapier.com/learn/remote-work/)
@@ -33,3 +37,5 @@
 - [Guidelines for Effective Collaboration](https://github.com/buritica/collaboration-guides)
 - [The Basecamp Employee Handbook](https://basecamp.com/handbook)
 - [Basecamp - How We Communicate](https://basecamp.com/guides/how-we-communicate)
+- [We Work Remotely Favorite Resources](https://weworkremotely.com/remote-work-resources)
+- [Some resources from fyi](https://usefyi.com/remote-work-resources/)

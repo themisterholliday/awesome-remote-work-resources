@@ -1,2 +1,35 @@
-# awesome-remote--work-resources
-A list of awesome remote work resources. Feel free to contribute!
+# Awesome Remote Work Resources
+
+- [Gitlab The Remote Manifesto](https://about.gitlab.com/company/culture/all-remote/#the-remote-manifesto)
+- [More GitLab remote resources](https://about.gitlab.com/blog/2020/03/06/resources-for-companies-embracing-remote-work/?utm_medium=email&utm_source=marketo&utm_campaign=newsletter&utm_content=march+10+2020&mkt_tok=eyJpIjoiTVdOaE9XVmpZekZqWlRjeiIsInQiOiJyVktSNXUwc3hQNmpmWHVaUHBySFZWN2lCMjVuUm51YjRSNHlTWnBvdmcydmJXR01sR0xFMGt6SHk4TXl1OEF6XC9DZmwzR09pQ3I3VmU2bHAwSHZhRnNXUnhoUmNad1FVYVB5c2NFYUJqTEJJUm1qY0JScmRhcjVEd2d3VW9EeERqM0IxRlRvS1h1bFRyMzc4MFRDaERnPT0ifQ==)
+- [Zapier Remote Work/](https://zapier.com/learn/remote-work/)
+- [Basecamp Remote Book](https://basecamp.com/books/remote)
+- [the-10-rules-found-in-every-good-remote-work-policy](https://www.techrepublic.com/article/the-10-rules-found-in-every-good-remote-work-policy/)
+- [flexible-work-schedule](https://blog.bonus.ly/flexible-work-schedule)
+- [how-to-design-an-outstanding-remote-work-program](http://blog.bonus.ly/how-to-design-an-outstanding-remote-work-program/)
+- [10-stats-about-remote-work](https://remote.co/10-stats-about-remote-work/)
+- [HOW DOIST REMOTE TEAM COMMUNICATES CALMLY ACROSS 25+ COUNTRIES - Video](https://www.youtube.com/watch?v=vsxmFS4V738&feature=share)
+- [How to Communicate Effectively While Working Remotely](https://www.youtube.com/watch?v=YvFNP3P0BVI&feature=share)
+- [Working remotely | Swift by Sundell](https://swiftbysundell.com/meta/working-remotely/)
+- [The Best Advice For Remote Work Success From 10 Global Teams - [Free Guide]](https://blog.trello.com/remote-work-team-success-guide)
+- [7 Weird Ways To Help Combat 'Hermit' Habits As A Remote Worker](https://blog.trello.com/hermit-habits-remote-work)
+- [6 Rules To Live By When You Work In An Office But Have Remote Team Members](https://blog.trello.com/6-mistakes-when-you-work-in-office-but-have-remote-team-members)
+- [How Hugo Makes Meetings More Meaningful With Trello](https://blog.trello.com/hugo-meetings-templates)
+- [Getting Started on Day 1 (@operaqueenie)](https://www.notion.so/Getting-Started-on-Day-1-6fb22cf5690c444f81632e4c74f64a32)
+- [How We Work & Communicate (@operaqueenie)](https://www.notion.so/How-We-Work-Communicate-15138591b223466f82b83646c98997a0)
+- [Glitch Employee Handbook](https://handbook.glitch.me/#welcome)
+- [Collaboration Guides (by @buritica)](https://github.com/buritica/collaboration-guides)
+- [6 Communication Habits of Successful Remote Teams](http://blog.crossover.com/remote-team-communication-tips)
+- [How To Master The Art Of Remote Team Communications](https://blog.trello.com/master-remote-team-communications)
+- [Help Your Team Agree on How They’ll Collaborate](https://hbr.org/2015/09/help-your-team-agree-on-how-theyll-collaborate)
+- [How to Collaborate Effectively If Your Team Is Remote](https://hbr.org/2018/02/how-to-collaborate-effectively-if-your-team-is-remote)
+- [The Indispensable Document for the Modern Manager](https://firstround.com/review/the-indispensable-document-for-the-modern-manager/)
+- [12 Remote Work Tools Buffer Can’t Live Without
+  ](https://open.buffer.com/remote-work-tools/)
+- [My Ideal Day as a Remote Programmer: Taking Charge of Your Daily Routine](https://overflow.bufferapp.com/2014/06/12/my-ideal-day-as-a-programmer-taking-charge-of-your-daily-routine/) by Colin Ross, Chief back-end at Buffer.
+- [A Day in the Life of a Remote Developer](http://remotenation.co/blog/a-day-in-the-life-of-a-remote-developer) by Josh Black, a software engineer working at [CramerDev](http://cramerdev.com/), based in US.
+- [Working As A Remote Contract Code Monkey](https://coderwall.com/p/0ikc0w/working-as-a-remote-contract-code-monkey?p=1&q=author%3Alee101) by Lee Penkman, a software engineer, live in New Zealand and work remotely for a firm in Australia.
+- [The Joys and Benefits of Working as a Distributed Team](http://joel.is/the-joys-and-benefits-of-working-as-a-distributed-team/) by Joel Gascoigne, Co-founder and CEO at Buffer. Buffer is a company with almost employees are remote workers.
+- [Guidelines for Effective Collaboration](https://github.com/buritica/collaboration-guides)
+- [The Basecamp Employee Handbook](https://basecamp.com/handbook)
+- [Basecamp - How We Communicate](https://basecamp.com/guides/how-we-communicate)

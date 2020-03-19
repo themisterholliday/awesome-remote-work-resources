@@ -48,3 +48,15 @@
 - [We Work Remotely Favorite Resources](https://weworkremotely.com/remote-work-resources)
 - [Some resources from fyi](https://usefyi.com/remote-work-resources)
 - [Collaboration Guides (by @buritica)](https://github.com/buritica/collaboration-guides)
+- [Remote for small teams: work in the time of coronavirus](https://blog.textile.io/remote-for-small-teams-during-coronavirus/)
+- [REMOTE WORK TIPS FOR TEAMS](https://laurieontech.com/posts/remote-work/)
+- [The ultimate guide to remote work](https://miro.com/guides/remote-work/)
+- [WFH Manual](https://wfhmanual.com/)
+
+## Apps
+- [Remote HQ](https://www.remotehq.com/)
+
+- [Slack](https://slack.com/)
+- [Discord](https://discordapp.com/)
+- [Keybase](https://keybase.io/)
+- [Tuple | Remote Pair Programming App](https://tuple.app/)

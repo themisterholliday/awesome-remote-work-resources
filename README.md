@@ -52,6 +52,7 @@
 - [REMOTE WORK TIPS FOR TEAMS](https://laurieontech.com/posts/remote-work/)
 - [The ultimate guide to remote work](https://miro.com/guides/remote-work/)
 - [WFH Manual](https://wfhmanual.com/)
+- [Setting Up Your Webcam, Lights, and Audio for Remote Work, Podcasting, Videos, and Streaming](https://mattstauffer.com/blog/setting-up-your-webcam-lights-and-audio-for-remote-work-podcasting-videos-and-streaming/)
 
 ## Apps
 - [Remote HQ](https://www.remotehq.com/)

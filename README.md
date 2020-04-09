@@ -68,3 +68,5 @@
 - [Discord](https://discordapp.com/)
 - [Keybase](https://keybase.io/)
 - [Tuple | Remote Pair Programming App](https://tuple.app/)
+- [Screen - Work together like you’re in the same room](https://screen.so)
+- [Zappy- The fastest, all-in-one way to share screenshots, GIFs, and recordings with your teammates](https://zapier.com/zappy)

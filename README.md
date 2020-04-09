@@ -10,6 +10,10 @@
 - [HOW DOIST REMOTE TEAM COMMUNICATES CALMLY ACROSS 25+ COUNTRIES - Video](https://www.youtube.com/watch?v=vsxmFS4V738)
 - [How to Communicate Effectively While Working Remotely](https://www.youtube.com/watch?v=YvFNP3P0BVI)
 
+## Podcast Episodes
+- [Syntax.fm - Mental Health and Dev ft Dr. Courtney Tolinski - Depression, Anxiety, Imposter Syndrome, Focus, Motivation, Burnout](https://syntax.fm/show/236/mental-health-and-dev-ft-dr-courtney-tolinski-depression-anxiety-imposter-syndrome-focus-motivation-burnout)
+- [Syntax.fm - Working From Home During the Pandemic (With or Without Kids)](https://syntax.fm/show/238/working-from-home-during-the-pandemic-with-or-without-kids)
+
 ## Guides & Resources
 - [Gitlab The Remote Manifesto](https://about.gitlab.com/company/culture/all-remote/#the-remote-manifesto)
 - [More GitLab remote resources](https://about.gitlab.com/blog/2020/03/06/resources-for-companies-embracing-remote-work)
@@ -20,6 +24,8 @@
 - [How Hugo Makes Meetings More Meaningful With Trello](https://blog.trello.com/hugo-meetings-templates)
 - [6 Communication Habits of Successful Remote Teams](http://blog.crossover.com/remote-team-communication-tips)
 - [How To Master The Art Of Remote Team Communications](https://blog.trello.com/master-remote-team-communications)
+- [Bond At A Distance With The Remote Team Cooking Challenge](https://blog.trello.com/remote-team-cooking-challenge)
+- [Tips For Tackling 6 Big Challenges Of Remote Work](https://blog.trello.com/tips-for-tackling-remote-work-challenges)
 
 - [The Basecamp Employee Handbook](https://basecamp.com/handbook)
 - [Basecamp - How We Communicate](https://basecamp.com/guides/how-we-communicate)

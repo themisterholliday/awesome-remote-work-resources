@@ -60,6 +60,8 @@
 - [WFH Manual](https://wfhmanual.com/)
 - [Setting Up Your Webcam, Lights, and Audio for Remote Work, Podcasting, Videos, and Streaming](https://mattstauffer.com/blog/setting-up-your-webcam-lights-and-audio-for-remote-work-podcasting-videos-and-streaming/)
 - [Notion Remote Work Wiki](https://www.notion.so/Remote-work-wiki-1b21ef5501714fffa9f5c5c25677371f)
+- [How to Make Working from Home Work Better for You - Polly](https://www.polly.ai/blog/wfh-how-to-make-working-from-home-work-for-you)
+- [How to Lead a Successful Remote Team - Polly](https://www.polly.ai/blog/wfh-part-ii-how-to-lead-a-successful-remote-team)
 
 ## Apps
 - [Remote HQ](https://www.remotehq.com/)
